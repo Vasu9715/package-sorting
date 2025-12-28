@@ -41,7 +41,7 @@ def sort(width, height, length, mass):
         return "SPECIAL"
     else:
         return "STANDARD"
-
+```
 ## ▶️ How to Run
 
 ### Requirements
